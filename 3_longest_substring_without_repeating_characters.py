@@ -5,6 +5,7 @@
 #Output: 3
 #Explanation: The answer is "abc", with the length of 3.
 
+#Sliding window approach
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         
